@@ -4,7 +4,7 @@
     // ultilizado para o Versegroup e todas as plataformas.
     // Versebank.com.br - Verseland.com.br - versepay.com.br 
    //  hello@versepay.com.br -- token@versepay.com.br
-
+ // whitepaper disponivel em Versetoken.com.br/whitepaper.pdf
 
  pragma solidity ^0.8.2;
 
